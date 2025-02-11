@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Finntomek
-- 👀 I’m interested in js, ts, html, css
-- 🌱 I’m currently learning js
+- 👀 I’m interested in Web development, cpp, cs, reverse engineering 
+- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: Finntomek
 - 😄 Pronouns: He / him
