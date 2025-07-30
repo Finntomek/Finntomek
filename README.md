@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Finntomek
-- 👀 I’m interested in Web development, cpp, cs, reverse engineering 
+- 👀 I’m interested in Web development in Vue.js, cpp,reverse engineering 
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: Finntomek
