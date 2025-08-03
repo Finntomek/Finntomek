@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Finntomek
 - 👀 I’m interested in Web development in Vue.js, cpp,reverse engineering 
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord: Finntomek
-- 😄 Pronouns: He / him
-- ⚡ Fun fact: ...
+
+Vue.js React HTML5 CSS3 Bootstrap
 
 <!---
 Finntomek/Finntomek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
